@@ -1,1 +1,1 @@
-<script>alert()</script>
+alert('XSS via jsDelivr!');
